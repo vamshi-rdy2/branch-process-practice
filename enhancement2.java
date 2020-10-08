@@ -1,1 +1,2 @@
-printf("checkout2 commit"
+printf("checkout2 commit
+practice2		
